@@ -1,4 +1,4 @@
-# L6_L7_09 — Bookstore Trade-In
+# L6_ — Bookstore Trade-In
 
 Lab 6: Code and Branch Coverage
 
